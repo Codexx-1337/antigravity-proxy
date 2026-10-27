@@ -1,0 +1,9 @@
+# local proxy config - real credentials live here only, never commit
+settings.ini
+settings.ini.bak*
+*.bak
+*.log
+*.exe
+*.pdb
+obj/
+bin/
